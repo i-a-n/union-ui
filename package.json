@@ -1,7 +1,7 @@
 {
   "name": "union-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An Atom UI theme to replicate the feel of an old Compaq Portable III orange CRT computer.",
   "license": "MIT",
   "repository": "https://github.com/i-a-n/union-ui",
